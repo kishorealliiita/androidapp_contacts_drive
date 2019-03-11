@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UploadStuff</string>
+    <string name="edit_message">test</string>
+    <string name="button_send">UPLOAD</string>
+    <string name="second">second</string>
+    <string name="select">Select</string>
+    <string name="uploadToDrive">upload files to drive</string>
+    <string-array name="Select_items">
+        <item>Contacts</item>
+        <item>Photos</item>
+        <item>Files</item>
+        <item>Messages</item>
+    </string-array>
+</resources>
